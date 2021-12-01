@@ -1,1 +1,1 @@
-# Job-Descriptoin-Compiler-Simplyhired
+Job Description Compiler is an R-based web application constructed on shinyapp.io server. The job descripttion compiler can scrape the job information like job title, job location, salary, and job description from simplyhired.com.
